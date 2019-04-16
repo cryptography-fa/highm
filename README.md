@@ -1,2 +1,2 @@
 # highm
-![![](](https://img.shields.io/badge/Python-3.x or higher-yellowgreen.svg)
+![![](](https://img.shields.io/badge/Python-3.x/higher-yellowgreen.svg)
